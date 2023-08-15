@@ -34,7 +34,33 @@ public class ConstantsData
 	
 	public static String ActualLoginWarningText ="Warning: No match for E-Mail Address and/or Password.";
 	
+	public static String Iphone = "Iphone";
+	
+	public static String Samsung = "Samsung";
+	
+	public static String ComparisonMessage = "The products total price and the sum price matches";
+	
+	public static String ComparisonMessage1 = "The products total price and the sum price does not match";
+	
+	public static String ActualEuro = "€ Euro";
+	
+	public static String PhoneText ="123456789";
+	
+	public static String Register = "Register";
+	
+	public static String Wishlist = "Wish List (0)";
+	
+	public static String ShoppingCart = "Shopping Cart";
 
+	public static String CheckOut = "Checkout";
+	
+	public static String ActualTabletText = "Samsung Galaxy Tab 10.1";
+	
+	public static String ActualSoftwareText = "There are no products to list in this category.";
+	
+	public static String ActualPhoneTabsText = "Phones & PDAs";
+	
+	public static String ActualCamerasText = "Cameras";
 	
 
 
